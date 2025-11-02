@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"45f25eefa25424b7","x":-400,"y":-400,"width":774,"height":365,"type":"text","text":""},
+		{"id":"5f92e11203c38199","x":60,"y":-371,"width":250,"height":123,"type":"text","text":" Connections request  along with accept and ingnore button"},
+		{"id":"f086f187921e9bdf","x":-360,"y":-359,"width":250,"height":111,"type":"text","text":"logged in user details"},
+		{"id":"8280173e44e7842d","x":-360,"y":-240,"width":250,"height":60,"type":"text","text":"Team -Management"},
+		{"id":"cefffc414d6ffee4","x":-360,"y":-160,"width":650,"height":100,"type":"text","text":""},
+		{"id":"86ac92aaa67f2add","x":-360,"y":-140,"width":250,"height":60,"type":"text","text":"Team details"},
+		{"id":"621de00504d35ab7","x":40,"y":-240,"width":250,"height":60,"type":"text","text":"Create team.  A small form where user enters team name skils required to join team"},
+		{"id":"5864aa8dbd520a71","x":0,"y":-140,"width":250,"height":60,"type":"text","text":"requests to join a team along withs buttons to accept or reject "}
+	],
+	"edges":[
+		{"id":"f083d371772ba4f9","fromNode":"f086f187921e9bdf","fromSide":"bottom","toNode":"45f25eefa25424b7","toSide":"left"}
+	]
+}
